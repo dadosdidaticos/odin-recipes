@@ -1,0 +1,28 @@
+body {
+    background-color: blanchedalmond;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.recipe-menu {
+    list-style-type: none;
+    background-color: burlywood;
+    color: white;
+}
+
+.plate-img {
+    height: auto;
+    width: 350px;
+}
+
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.resume {
+    font-weight: bold;
+}
+
+h2 {
+    background-color: rgba(83, 0, 0, 0.750);
+    color: white;
+}
